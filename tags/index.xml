@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Byron Hawksmith | Blog</title>
-    <link>byronhawksmith.github.io/tags/</link>
+    <link>https://byronhawksmith.github.io/tags/</link>
     <description>Recent content in Tags on Byron Hawksmith | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Jul 2021 10:00:00 +0000</lastBuildDate><atom:link href="byronhawksmith.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jul 2021 10:00:00 +0000</lastBuildDate><atom:link href="https://byronhawksmith.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ASP.NET MVC</title>
-      <link>byronhawksmith.github.io/tags/asp.net-mvc/</link>
+      <link>https://byronhawksmith.github.io/tags/asp.net-mvc/</link>
       <pubDate>Sat, 03 Jul 2021 10:00:00 +0000</pubDate>
       
-      <guid>byronhawksmith.github.io/tags/asp.net-mvc/</guid>
+      <guid>https://byronhawksmith.github.io/tags/asp.net-mvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure AD B2C</title>
-      <link>byronhawksmith.github.io/tags/azure-ad-b2c/</link>
+      <link>https://byronhawksmith.github.io/tags/azure-ad-b2c/</link>
       <pubDate>Sat, 03 Jul 2021 10:00:00 +0000</pubDate>
       
-      <guid>byronhawksmith.github.io/tags/azure-ad-b2c/</guid>
+      <guid>https://byronhawksmith.github.io/tags/azure-ad-b2c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub Actions</title>
-      <link>byronhawksmith.github.io/tags/github-actions/</link>
+      <link>https://byronhawksmith.github.io/tags/github-actions/</link>
       <pubDate>Sat, 03 Jul 2021 10:00:00 +0000</pubDate>
       
-      <guid>byronhawksmith.github.io/tags/github-actions/</guid>
+      <guid>https://byronhawksmith.github.io/tags/github-actions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IAM</title>
-      <link>byronhawksmith.github.io/tags/iam/</link>
+      <link>https://byronhawksmith.github.io/tags/iam/</link>
       <pubDate>Sat, 03 Jul 2021 10:00:00 +0000</pubDate>
       
-      <guid>byronhawksmith.github.io/tags/iam/</guid>
+      <guid>https://byronhawksmith.github.io/tags/iam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft Graph</title>
-      <link>byronhawksmith.github.io/tags/microsoft-graph/</link>
+      <link>https://byronhawksmith.github.io/tags/microsoft-graph/</link>
       <pubDate>Sat, 03 Jul 2021 10:00:00 +0000</pubDate>
       
-      <guid>byronhawksmith.github.io/tags/microsoft-graph/</guid>
+      <guid>https://byronhawksmith.github.io/tags/microsoft-graph/</guid>
       <description></description>
     </item>
     
