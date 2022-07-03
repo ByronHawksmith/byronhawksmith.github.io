@@ -1,0 +1,107 @@
+baseURL: "byronhawksmith.github.io"
+title: Byron Hawksmith | Blog
+paginate: 5
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Categories
+          url: categories/
+          weight: 20
+        - name: Tags
+          url: tags/
+          weight: 30
+        - name: Archive
+          url: archive/
+          weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Byron Hawksmith | Blog
+  description: "Byron Hawksmith | Blog"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Byron Hawksmith
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Byron Hawksmith | Blog
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Greetings"
+    Content: I'm a full stack developer who blogs about things I find interesting, frustrating or both...
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ByronHawksmith"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/byron-hawksmith/"
+
+  editPost:
+    URL: "https://github.com/ByronHawksmith/byronhawksmith.github.io/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
