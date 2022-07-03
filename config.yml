@@ -1,4 +1,4 @@
-baseURL: "byronhawksmith.github.io"
+baseURL: "https://byronhawksmith.github.io/"
 title: Byron Hawksmith | Blog
 paginate: 5
 theme: "PaperMod"
