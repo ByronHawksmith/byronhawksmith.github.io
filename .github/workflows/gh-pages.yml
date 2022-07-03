@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Update theme
+        run: git submodule update --init --recursive
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
