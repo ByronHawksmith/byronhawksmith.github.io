@@ -39,13 +39,13 @@ This solution will cover CRUD operations on B2C users as well as token expiry, f
 
 The development environment used for this series is a fresh install of [Visual Studio CE 2022](https://visualstudio.microsoft.com/vs/community/) with the ASP.NET and Azure workloads as well as the .NET Core 3.1 Runtime (LTS) component all running on Windows 10.
 
-![Visual Studio Installer Snapshot](/static/1.PNG)
+![Visual Studio Installer Snapshot](/1.PNG)
 
 ## Forking the Web Application
 
 Microsoft has an example [ASP.NET web application](https://github.com/Azure-Samples/dotnetcore-sqldb-ghactions) which we will leverage as a starting point for this series. You should fork this repo so we can run the actions and expand it's capabilities.
 
-![Forked Repository](/static/2.PNG)
+![Forked Repository](/2.PNG)
 
 ## Cloning the Repo
 
@@ -60,12 +60,12 @@ git clone https://github.com/ByronHawksmith/dotnetcore-sqldb-ghactions-b2c.git
 
 Open the .csproj in Visual Studio.
 
-![File Explorer with .csproj](/static/3.PNG)
-![Visual Studio with project open](/static/4.PNG)
+![File Explorer with .csproj](/3.PNG)
+![Visual Studio with project open](/4.PNG)
 
 Make sure you enable "Show All Files" in the solution explorer.
 
-![Show All Files](/static/5.PNG)
+![Show All Files](/5.PNG)
 
 ## Configuring the Infrastructure Workflow
 
@@ -73,11 +73,11 @@ Navigate to the [Azure Portal](https://portal.azure.com/)
 
 Open a cloud shell and run `az account list -o table`
 
-![Cloud Shell](/static/6.PNG)
+![Cloud Shell](/6.PNG)
 
 Navigate to the [Secrets](https://github.com/ByronHawksmith/dotnetcore-sqldb-ghactions-b2c/settings/secrets/actions/new) section of your forked repo and add a new `AZURE_SUBSCRIPTION_ID` secret with the value being your Subscription ID.
 
-![GitHub Secrets](/static/7.PNG)
+![GitHub Secrets](/7.PNG)
 
 Run `az ad sp create-for-rbac --name "demo-webappsql-gh-actions-sp" --sdk-auth --role contributor --scopes /subscriptions/<subscription-id>` in your Azure cloud shell, copy the output which will have the following structure:
 
@@ -102,7 +102,7 @@ Create two additonal secrets in GitHub called `SQLADMIN_LOGIN` and `SQLADMIN_PAS
 
 You should now have the following secrets set.
 
-![GitHub Secrets 2](/static/8.PNG)
+![GitHub Secrets 2](/8.PNG)
 
 Replace lines 1-6 in `.github/workflows/infraworkflow.yml` with:
 
@@ -127,17 +127,17 @@ git push
 
 Navigate to the [infraworkflow.yml action](https://github.com/ByronHawksmith/dotnetcore-sqldb-ghactions-b2c/actions/workflows/infraworkflow.yml) and run it.
 
-![Run Workflow](/static/9.PNG)
+![Run Workflow](/9.PNG)
 
 If all is successful, a new resource group will be provisioned in Azure which can be seen in the portal:
 
-![Resource Group](/static/10.PNG)
+![Resource Group](/10.PNG)
 
 ## Configuring the App Deploy Workflow
 
 Get the publish profile for the staging environment App Service that exists under the newly created Resource Group in the Azure Portal.
 
-![App Service Get Publish Profile](/static/11.PNG)
+![App Service Get Publish Profile](/11.PNG)
 
 Copy the entire contents of the downloaded file into a new `AZURE_WEBAPP_PUBLISH_PROFILE` secret.
 
@@ -262,10 +262,10 @@ git push
 
 Navigate to the [workflow.yml action](https://github.com/ByronHawksmith/dotnetcore-sqldb-ghactions-b2c/actions/workflows/workflow.yml) and run it.
 
-![Run Workflow](/static/12.PNG)
+![Run Workflow](/12.PNG)
 
 ## Checkpoint
 
 Navigate to the [App Service URL](https://demo-webappsql-gh-actions-unique.azurewebsites.net/) to see the application in action. In the next post I will cover modifying the workflows to include setting up an Azure AD B2C tenant and integrating Azure AD B2C with our web application.
 
-![Run Workflow](/static/13.PNG)
+![Run Workflow](/13.PNG)
