@@ -5,7 +5,16 @@
     <link>https://byronhawksmith.github.io/categories/</link>
     <description>Recent content in Categories on Byron Hawksmith | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Jul 2021 10:00:00 +0000</lastBuildDate><atom:link href="https://byronhawksmith.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 16:00:00 +0000</lastBuildDate><atom:link href="https://byronhawksmith.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows</title>
+      <link>https://byronhawksmith.github.io/categories/windows/</link>
+      <pubDate>Fri, 16 Jul 2021 16:00:00 +0000</pubDate>
+      
+      <guid>https://byronhawksmith.github.io/categories/windows/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure</title>
       <link>https://byronhawksmith.github.io/categories/azure/</link>
