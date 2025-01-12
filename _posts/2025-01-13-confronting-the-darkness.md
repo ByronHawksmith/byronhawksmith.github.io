@@ -45,7 +45,7 @@ That’s why I write—not to tear people down but to wake them up. To show them
 
 ## The Work Ahead
 
-Confrontation is hard. It’s messy, uncomfortable, and sometimes painful. But it’s also necessary. Whether it’s through meditation, therapy, prayer, or scripture, we all have to face the shadows within if we want to move forward.
+Confrontation is hard. It’s messy, uncomfortable, and sometimes painful. But it’s also necessary. Whether it’s through meditation, therapy or prayer and scripture, we all have to face the shadows within somehow if we want to move forward.
 
 We all have different wounds. Guilt, shame, anger, despair, abuse, trauma—the specifics vary, but the impact is universal. What is common to all of us is that there are aspects of ourselves, buried and unfamiliar, that will continue to shape our lives if we refuse to confront them. 
 
