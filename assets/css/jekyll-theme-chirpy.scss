@@ -1,0 +1,27 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == ' production ' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+.preview-img {
+  aspect-ratio: 1 / 1;
+}
+
+#post-list {
+  .card {
+    .card-body {
+      .card-text {
+        &.content {
+          p {
+            -webkit-line-clamp: 4;
+          }
+        }
+      }
+    }
+  }
+}
