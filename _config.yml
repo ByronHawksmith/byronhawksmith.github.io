@@ -40,6 +40,8 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+future: true
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
