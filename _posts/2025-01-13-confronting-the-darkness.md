@@ -3,6 +3,7 @@ layout: post
 title: "Confronting the Darkness: A Personal Call to Awaken"
 image:
   path: /images/confronting-the-darkness.png
+date: 2025-01-13 00:00:00 +0930
 ---
 
 I’ll be honest: my writing can be scathing. It’s sharp, direct, and often unflinching in its criticism of society, trends, and human behavior. I pull no punches because I believe the truth is too important to soften. But if my words have ever felt like judgment, let me make one thing clear: I do not write to condemn. My intent—always—is to awaken.
