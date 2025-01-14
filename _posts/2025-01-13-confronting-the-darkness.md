@@ -22,9 +22,9 @@ Much of what torments us is hidden, buried in our subconscious. It wreaks havoc 
 
 ## My Own Journey
 
-For me, that confrontation began during a ten-day Vipassana meditation course. It was one of the most grueling experiences of my life. Ten days of silence, sitting with my thoughts, feelings, and memories—all the things I’d buried and avoided. It was excruciating, but it was also liberating. I learned to see my pain for what it was, to acknowledge it, and to release it. I began to understand concepts like impermanence, craving, and attachment, and I saw how they shaped my life.
+For me, that confrontation began during a ten-day Vipassana meditation course. It was one of the most grueling experiences of my life. Ten days of silence, sitting with my thoughts, feelings, and memories—all the things I’d buried and avoided. It was excruciating, but it was also liberating. I learned to see my pain for what it was, to acknowledge it, and to release it. I began to understand concepts like impermanence (Anicca), craving (Taṇhā), aversion (Dosa), attachment (Rāga), detachment (Virāga), and I saw how they shaped my life.
 
-But while Vipassana gave me tools to understand myself, it didn’t give me the full context of who I am or where I’m going. That’s something I found in Christianity. 
+But while Vipassana gave me tools to understand myself and revealed parts of my inner architecture, it didn’t give me the full context of who I am or where I’m going. That’s something I found in Christianity. 
 
 The teachings of Christ gave me something that no philosophy or practice could: a framework of meaning. In Christ, I found not just a set of principles but a person—someone who understands the depths of human suffering because He endured it Himself. Someone who offers forgiveness, grace, and love, no matter how far we’ve fallen.
 
@@ -32,7 +32,7 @@ The teachings of Christ gave me something that no philosophy or practice could: 
 
 What sets Christianity apart is its unrelenting honesty about the human condition. It doesn’t sugarcoat our flaws or pretend that life is easy. It acknowledges the reality of sin and the profound ways it grips us. But it also offers a way out.
 
-In scripture, we see the full range of human fallibility laid bare. The fall of mankind from Eden illustrates our tendency to rebel, to grasp for control, and to lose our way. Cain’s murder of his brother Abel shows us the devastating consequences of unchecked envy, anger, and pride—how sin can turn us against even those closest to us. The fall of Lucifer reveals the dangers of hubris, and the story of Job exposes the inevitability of suffering in a broken world.
+In scripture, we see the full range of human fallibility laid bare. The fall of mankind from Eden illustrates our tendency to rebel, to grasp for control, and to lose our way. Cain’s murder of his brother Abel shows us the devastating consequences of unchecked envy, anger, and pride—how sin can turn us against even those closest to us. The fall of Lucifer reveals the dangers of hubris, and the story of Job exposes the inevitability of suffering in a broken world and the impermanence of all worldly things.
 
 And then there is Christ. In Him, we find the antidote to it all. He does not deny the darkness in us; He confronts it head-on. He endured unimaginable suffering, not to condemn us but to save us. He took the weight of our sins upon Himself so that we could find freedom. He transforms the worst of humanity—betrayal, cruelty, and violence—into a path to redemption.
 
@@ -42,7 +42,7 @@ This isn’t just a collection of stories—it’s a map for understanding the h
 
 If my words are sharp, it’s because I want to cut through the noise that keeps us asleep. If they feel harsh, it’s because I believe the stakes are too high to ignore. But I want you to know that my intent is never to judge. I know what it’s like to feel trapped in cycles of shame, regret, and avoidance. I’ve been there, and I’ve had to do the hard work of confronting my own darkness.
 
-That’s why I write—not to tear people down but to wake them up. To show them that they’re not alone, that there is hope, and that healing is possible. But it requires bravery. Philippians 1:6 reminds us that “He who began a good work in you will bring it to completion.” God is faithful, but we have to take the first step. We have to be willing to begin the work.
+That’s why I write—not to tear people down but to wake them up. To show them that they’re not alone, that there is hope, and that healing is possible. But it requires bravery. Philippians 1:6 reminds us that “He who began a good work in you will bring it to completion.” God is faithful, but we have to take the first step. We have to be willing to take the first step towards faith. We have to commission the work.
 
 ## The Work Ahead
 
