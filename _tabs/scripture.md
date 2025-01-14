@@ -195,6 +195,13 @@ but deliver us from the evil one.’
 <sup>**20**</sup> But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal.
 <sup>**21**</sup> For where your treasure is, there your heart will be also.
 
+
+<sup>**22**</sup> “The eye is the lamp of the body. If your eyes are healthy, your whole body will be full of light.
+<sup>**23**</sup> But if your eyes are unhealthy, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!
+
+
+<sup>**24**</sup> “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.
+
 ## Matthew 6:31-34
 <sup>**31**</sup> So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’
 <sup>**32**</sup> For the pagans run after all these things, and your heavenly Father knows that you need them.
