@@ -31,7 +31,7 @@ Men are protectors, providers, and warriors—both literal and metaphorical. The
 
 ## Christianity: The Foundation That Grounds Us
 
-Christianity provides purpose beyond the self, an eternal moral framework that shapes civilizations. In its absence, we see the rise of nihilism, relativism, and disconnection. These modern idols promise freedom but deliver despair. Christianity’s suppression has not led to its eradication; it has created hunger. Hunger for belonging. Hunger for meaning. Hunger for a return to the divine.
+Christianity provides purpose beyond the self, an eternal moral framework that shapes civilizations. In its absence, we see the rise of nihilism, relativism, absurdism, and disconnection. These modern idols promise freedom but deliver despair. Christianity’s suppression has not led to its eradication; it has created hunger. Hunger for belonging. Hunger for meaning. Hunger for a return to the divine.
 
 When suppressed, Christianity does not die. It waits. It grows in the hearts of the disillusioned and the spiritually starved. As ideologies crumble under their inability to answer the deepest existential questions, people return to the faith that has stood the test of time.
 

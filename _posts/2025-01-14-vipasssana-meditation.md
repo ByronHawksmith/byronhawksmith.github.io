@@ -13,7 +13,7 @@ Goenka taught that Vipassanā is not meant to strip away faith or true identity 
 
 I went into my first Vipassanā retreat blind—a profound leap of faith. I overcame countless fears and anxieties, both my own and those planted by others: _“This is a cult.”_ _“You’re going to be brainwashed.”_ _“You’re going to lose your mind.”_
 
-I didn’t dive into theory or philosophy before attending. All I knew were the practicalities: 10 days, 10 hours of meditation daily, no speaking, no eye contact, and a strict schedule for eating and resting. I expected difficulty, but I wasn’t prepared for how profoundly it would strip away layers of my being.
+I didn’t dive into theory or philosophy before attending. All I knew were the practicalities: 10 days, 10 hours of meditation daily, no speaking, no eye contact, no reading, no writing and a strict schedule for eating and resting. I expected difficulty, but I wasn’t prepared for how profoundly it would strip away layers of my being.
 
 At the time, I wasn’t a practicing Christian. However, I had grown up in a Christian household, was baptized, and was exposed to the Bible early in life. These early influences shaped me in ways I didn’t fully recognize until the retreat.
 
@@ -24,9 +24,9 @@ Some in Vipassanā circles might suggest that I simply shed enough **sankhāras*
 Vipassanā rests on foundational principles, many rooted in the Pali language. These concepts serve as tools to navigate the practice and understand the self:
 
 - **Anicca** (_impermanence_): Recognizing that all phenomena, internal and external, are transient. (Everything changes. Accept it.)
-- **Dukkha** (_suffering_): Understanding that attachment to transient things leads to unsatisfactoriness. (Clinging to the impermanent guarantees misery.)
+- **Dukkha** (_suffering_): Understanding that attachment to transient things leads to dissatisfaction. (Clinging to the impermanent guarantees misery.)
 - **Anattā** (_non-self_): Realizing the absence of a permanent, unchanging self. (The “self” you’re so attached to? It doesn’t exist.)
-- **Sankhāra** (_mental formations_): The conditioned reactions that perpetuate cycles of craving, aversion, and misery. (There are layers conditioned responses you have accumulated that are burying who you really are.)
+- **Sankhāra** (_mental formations_): The conditioned reactions that perpetuate cycles of craving, aversion, and misery. (There are layers of conditioned responses you have accumulated that are burying who you really are.)
 
 Through **Ānāpāna** (_mindfulness of breathing meditation_), I became intimate with my **vedanā** (_sensations_). Every itch, ache, and flicker of discomfort—impermanence made flesh. Through **Vipassanā** (_insight meditation_), I experienced not only **vedanā** (_sensations_) but observed and re-lived **sankhāra** (_mental formations_). This practice forces you to sit with it all, watching as cravings, aversions, sensations, and mental formations burn themselves out. It’s liberation by fire.
 
@@ -52,9 +52,9 @@ As a Christian—baptized but not practicing at the time—I found unexpected ha
 
 Both frameworks cultivate morality (**sīla**) as a foundation for deeper spiritual practice. In Vipassanā, morality supports **samādhi** (_concentration_) and **paññā** (_wisdom_), ultimately leading to **nibbāna** (_liberation from suffering_). In Christianity, ethical living is the path to embodying Christ’s teachings and seeking salvation through God’s grace.
 
-While the ethical parallels are striking, the objectives of the two traditions differ. Vipassanā aims for **nibbāna**, the extinguishing of suffering and the cycle of **saṃsāra** (_birth, death, and rebirth_). Christianity seeks salvation—eternal life in communion with God through Jesus Christ.
+While the ethical parallels are striking, the objectives of the two traditions differ. Vipassanā (rooted in Theravāda Buddhism) aims for **nibbāna**, the extinguishing of suffering and the ending of the cycle of **saṃsāra** (_birth, death, and rebirth_). Christianity seeks salvation—eternal life in communion with God through Jesus Christ.
 
-Nibbāna emphasizes dissolving the self and detachment from craving and aversion. Salvation emphasizes relationship: a redeemed self reconciled with the Creator. Both paths involve profound transformation, but they diverge in ultimate goals.
+**Nibbāna** emphasizes dissolving the self and detachment from craving and aversion. Salvation emphasizes relationship: a redeemed self reconciled with the Creator. Both paths involve profound transformation, but they diverge in ultimate goals.
 
 ## Fear, Misunderstanding, and the Fragility of Belief
 
