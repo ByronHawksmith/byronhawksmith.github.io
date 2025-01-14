@@ -42,7 +42,7 @@ This isn’t just a collection of stories—it’s a map for understanding the h
 
 If my words are sharp, it’s because I want to cut through the noise that keeps us asleep. If they feel harsh, it’s because I believe the stakes are too high to ignore. But I want you to know that my intent is never to judge. I know what it’s like to feel trapped in cycles of shame, regret, and avoidance. I’ve been there, and I’ve had to do the hard work of confronting my own darkness.
 
-That’s why I write—not to tear people down but to wake them up. To show them that they’re not alone, that there is hope, and that healing is possible. But it requires bravery. Philippians 1:6 reminds us that “He who began a good work in you will bring it to completion.” God is faithful, but we have to take the first step. We have to be willing to take the first step towards faith. We have to commission the work.
+That’s why I write—not to tear people down but to wake them up. To show them that they’re not alone, that there is hope, and that healing is possible. But it requires bravery. Philippians 1:6 reminds us that “He who began a good work in you will bring it to completion.” God is faithful, but we have to be willing to take the first step towards faith. We have to commission the work.
 
 ## The Work Ahead
 
