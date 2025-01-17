@@ -15,7 +15,7 @@ The witch’s fall mirrors that of Lucifer, the once-great angel cast from heave
 
 The witch was not always a figure of terror and corruption. She once symbolized wisdom, a connection to divine creation, and a servant of life’s sacred rhythms. Her power reflected a harmony with God’s creation, not defiance of it. Yet, in seeking to control the forces entrusted to her care, she began to tread the dangerous path of rebellion.
 
-The rebellion of the witch finds its roots in pride. Like Lucifer, she sought to ascend above her station, believing herself worthy of powers that belong only to the divine. Her rituals, once sacred acts of communion, transformed into tools of self-glorification. The humble steward became the defiant master, rejecting the authority of the Creator in favor of her own will.
+The rebellion of the witch finds its roots in pride. Like Lucifer, she sought to ascend above her station, believing herself worthy of powers that belong only to the divine. Her rituals are tools of self-glorification; she rejects the authority of the Creator in favor of her own will. And like Solomon, who erected altars to false gods and sought power and independence beyond his own understanding, she turns whatever gifts she possesses into instruments of rebellion, grasping for control over what is not hers to control. All are undone by the same fatal flaw: the belief that the created can supplant Creator.
 
 ---
 
