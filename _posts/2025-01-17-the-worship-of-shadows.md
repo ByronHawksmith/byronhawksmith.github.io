@@ -89,8 +89,11 @@ Nietzsche warned us that abandoning God would lead to the rise of false idols. H
 
 ## **The Question We Must Ask**
 
-The idols of modernity demand our worship, but they give nothing in return. The question is not whether we will keep worshipping them—it’s whether we can even stop. To turn from the shadows, to break the chains, to seek something higher. What might that look like? It could be a return to the divine—not necessarily to religion, but to transcendence, meaning, and purpose beyond the material.
+The idols of modernity demand our worship but give nothing in return. The question is not whether we will continue to worship them—it’s whether we can even stop. To turn from the shadows, to break the chains, to seek something higher. What might that look like? Perhaps it is a return to the divine—not to a rigid, dogmatic interpretation of religion, but to transcendence, meaning, and purpose beyond the material.
 
-The market is not God. Advertising is not salvation. Celebrities are not saints. And yet, as long as we treat them as such, we will remain trapped in this cycle of idolatry, hunger, and despair.
+I believe that Jesus Christ is the Son of God, who died for our sins on the cross. Only through a personal relationship with Him—and by truly wrestling with the significance of His sacrifice and its place in the narrative of humankind—can we transcend the material world in any meaningful way.
 
-The light is there, beyond the cave. The question is: **Who will turn around to see it?**
+The market is not God. Advertising is not salvation. Celebrities are not saints. Yet, as long as we treat them as such, we remain trapped in a cycle of idolatry, hunger, and despair.
+
+The light is there, beyond the cave. The question is: **Who will turn to see it?**
+
