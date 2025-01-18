@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Worship of Shadows"
+title: "The Worship of Shadows: The Dark Theocracy of Modernity"
 image:
   path: /images/the-worship-of-shadows.png
 ---
