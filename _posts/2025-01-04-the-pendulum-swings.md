@@ -31,7 +31,7 @@ Men are protectors, providers, and warriors—both literal and metaphorical. The
 
 ## Christianity: The Foundation That Grounds Us
 
-Christianity provides purpose beyond the self, an eternal moral framework that shapes civilizations. In its absence, we see the rise of nihilism, relativism, absurdism, and disconnection. These modern idols promise freedom but deliver despair. Christianity’s suppression has not led to its eradication; it has created hunger. Hunger for belonging. Hunger for meaning. Hunger for a return to the divine.
+Christianity provides purpose beyond the self, an eternal moral framework that shapes equitable civilizations. In its absence, we see the rise of nihilism, relativism, absurdism, and disconnection. These modern idols promise freedom but deliver despair. Christianity’s suppression has not led to its eradication; it has created hunger. Hunger for belonging. Hunger for meaning. Hunger for a return to the divine.
 
 When suppressed, Christianity does not die. It waits. It grows in the hearts of the disillusioned and the spiritually starved. As ideologies crumble under their inability to answer the deepest existential questions, people return to the faith that has stood the test of time.
 
@@ -42,8 +42,8 @@ When suppressed, Christianity does not die. It waits. It grows in the hearts of 
 The resurgence is already here, creeping in through cracks in the narrative. Early markers include:
 
 - **The Return to Tradition:** Movements celebrating traditional gender roles, strong families, and religious observance are gaining traction.
-- **Masculinity’s Cultural Revival:** Figures like Jordan Peterson and others who address male purpose are galvanizing millions, despite cultural pushback.
-- **Christian Renewal:** The rising interest in Orthodoxy and other traditional Christian frameworks reflects a hunger for unshakeable truths.
+- **Masculinity’s Cultural Revival:** Figures like Jordan Peterson and others who address male purpose are galvanizing millions, despite mainstream cultural pushback.
+- **Christian Renewal:** The rising interest in Orthodoxy and other traditional Christian frameworks reflects a hunger for the unshakeable truths that lay at the foundation of Western civilisation.
 
 These movements are not fringe. They are the tension of a cultural rubber band being released as it snaps back into balance. As modern systems fail to provide purpose or stability, people are turning back to the ancient and the eternal.
 
@@ -53,7 +53,7 @@ These movements are not fringe. They are the tension of a cultural rubber band b
 
 The world underestimates men. It caricatures them as disorganised brutes, fit only for physical labor or combat. But men’s warfare is not confined to the physical realm. It is also psychological, spiritual, intellectual, and systemic.
 
-1. **Psychological Warfare:** Men shape narratives, challenge ideologies, and dismantle systems of control. The mind is the ultimate battlefield, and disciplined men wield it like a scalpel.
+1. **Psychological Warfare:** Men shape narratives, challenge ideologies, and dismantle systems of tyrannical control. The mind is the ultimate battlefield, and disciplined men wield it like a scalpel.
 2. **Spiritual Warfare:** Men aligned with God become immovable. They fight for eternal truths, standing against the tide of relativism and chaos with conviction and faith.
 3. **Structural Warfare:** Men rebuild broken systems, creating frameworks rooted in efficiency, meritocracy, justice, and purpose.
 4. **Systemic Warfare:** Through strategy and unity, men dismantle corruption, inefficiency, and falsehoods, replacing them with order.
