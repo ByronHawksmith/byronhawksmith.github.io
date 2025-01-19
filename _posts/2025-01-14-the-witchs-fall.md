@@ -43,7 +43,7 @@ This inversion is a profound theological statement. While the lamb’s sacrifice
 
 The witch’s rebellion leaves visible scars, both on her soul and the world she inhabits. Her inner corruption manifests outwardly, a grotesque distortion of the divine image she was created to reflect. Her beauty, once radiant, becomes twisted. Her power, once harmonious with creation, becomes a force of destruction.
 
-Theologically, this corruption reflects the wages of sin. The witch’s actions separate her from God’s grace, and without that connection, she withers. The world she seeks to rule suffers alongside her. Nature, once her ally, becomes her enemy. Her rituals, once sacred acts of renewal, summon only chaos and ruin. The witch’s legacy is one of decay, a stark contrast to the life and hope offered by the lamb.
+Theologically, this corruption reflects the wages of sin. The witch’s actions separate her from God’s grace, and without that connection, she withers. The world she seeks to rule suffers alongside her. Nature, once her ally, becomes her enemy. Her rituals summon only chaos and ruin. The witch’s legacy is one of decay, a stark contrast to the life and hope offered by the lamb.
 
 ---
 
