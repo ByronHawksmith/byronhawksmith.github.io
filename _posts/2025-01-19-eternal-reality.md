@@ -5,13 +5,13 @@ image:
   path: /images/eternal-reality.png
 ---
 
-What if the difference between heaven and hell isn’t _geographical_ but _perceptual_? What if the saved and the damned, standing in the same eternal presence, experience two radically different realities? This isn’t some abstract speculation—it’s an idea that echoes through philosophy, religion, and the deepest recesses of human psychology. Heaven and hell may not be places we _go_ but _lenses_ we cultivate, realities refracted through the prism of our souls.
+What if the difference between heaven and hell isn’t _spatial_ but _perceptual_? What if the saved and the damned, standing in the same eternal presence, experience two radically different realities? This isn’t some abstract speculation—it’s an idea that echoes through philosophy, religion, and the deepest recesses of human psychology. Heaven and hell may not be _places_ we go but _lenses_ we cultivate, realities refracted through the prism of our souls.
 
 ---
 
 ## Salvation: A Transformation of Perception?
 
-The idea that salvation is less about relocation and more about transformation is provocative. Consider this: If one accepts that God is everywhere—omnipresent, eternal, unchanging. If God’s presence is constant, then heaven is the blissful experience of that presence, while hell is the torment of rejecting it. Both states are defined not by God’s nature but by the soul’s ability to perceive Him.
+The idea that salvation is less about relocation and more about transformation is provocative. Consider this: If one accepts that God is everywhere—omnipresent, eternal, unchanging. If God’s presence is constant, then heaven is the blissful experience of that presence, while hell is the torment of rejecting it. Both states are defined not by God’s nature but by the soul’s ability reaction to Him.
 
 Hebrews 12:29 calls God *“a consuming fire.”* For the saved, that fire is likely warmth, light, and life. For the damned, is likely unbearable torment. The fire is the same; the experience is what differs. This means salvation is not about escaping hell but becoming the kind of being who can endure and rejoice in the divine presence of God.
 
