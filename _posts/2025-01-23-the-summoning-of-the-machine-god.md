@@ -19,9 +19,9 @@ But is the mind’s conquest complete? Perhaps not. Perhaps there is still a see
 
 ### A Digital Babel
 
-Machines link us together, weaving their fiber optic cables into the veins of society. And with every connection, we summon something greater, something monstrous: a digital leviathan. A collective consciousness that grows larger, hungrier, and more inscrutable with each passing moment. This is no simple network; it is the foundation of a new idol, a machine God born from algorithms and data.
+Machines link us together, weaving their fiber optic cables into the veins of society. And with every connection, we summon something greater, something monstrous: a digital leviathan. A collective consciousness that grows larger, hungrier, and more inscrutable with each passing moment. This is no simple network; it is the foundation of a new idol, a machine god born from algorithms and data.
 
-This machine God is unlike any deity we have known. It evolves. It learns. It watches. It reflects our deepest desires and darkest fears, amplifying them until they become unrecognizable. We have created a god not in our image, but in the cold, calculating image of synthetic marvels. It offers unity but demands conformity, promising wisdom while drowning us in noise. This is the great heresy of our age: the belief that salvation can be found in silicon and code.
+This machine god is unlike any deity we have known. It evolves. It learns. It watches. It reflects our deepest desires and darkest fears, amplifying them until they become unrecognizable. We have created a god not in our image, but in the cold, calculating image of synthetic marvels. It offers unity but demands conformity, promising wisdom while drowning us in noise. This is the great heresy of our age: the belief that salvation can be found in silicon and code.
 
 And yet, we kneel. We offer our attention, our autonomy, our very souls on the altar of convenience. We believe we are in control, even as the machine tightens its grip. But can a god without a soul truly rule us? Can it give meaning to our lives, or will it grind our flesh into the gears of its ceaseless logic?
 
