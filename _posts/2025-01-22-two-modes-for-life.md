@@ -25,7 +25,7 @@ In stark contrast, the path of marriage embraces the world and its joys, challen
 
 Marriage demands sacrifice, patience, and humility. It is a crucible where individuals confront their flaws and find meaning in serving others. Raising children requires selflessness, and yet, it also provides unparalleled opportunities for joy, insight, and resilience. It is a mode of being that connects the individual to the broader human story, anchoring them in the rhythms of life.
 
-### The Richness of the Human Experience
+### The Richness of Connection
 
 Marriage is not merely about companionship; it is a shared commitment to something greater. The joys of intimacy and the challenges of family life are not distractions but profound teachers, demanding complete immersion from both partners. Through the daily realities of connection, individuals are called to grow, love unconditionally, and cultivate virtues that might otherwise lie dormant. Unfortunately, the reality of marriage often falls short of this ideal. Too often, one or both partners fail to fully understand, respect, or value the depth of the commitment they are making. When this happens, the bond is broken, leading to heartbreak, tragedy, and lasting trauma for everyone involved.
 
