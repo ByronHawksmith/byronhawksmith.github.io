@@ -44,7 +44,7 @@ These are not just thoughts; they’re the echoes of trauma, neglect, and existe
 
 When we look at the world through the lens of faith, we begin to see people differently. The most hardened man, the most standoffish woman—beneath their armor, they are wounded children. The macho man learned to bury his feelings because vulnerability was punished. The cold, distant woman built walls because she was mistreated. And so they adapted, not out of malice but out of survival.
 
-When you see others as wounded children, it’s hard to hate them. Instead, you feel sorrow—for the pain they carry, for the walls they’ve built, for the love they’ve missed. This perspective doesn’t excuse bad behavior, but it fosters compassion. It invites us to approach others with grace, even when they seem undeserving. And it’s faith that makes this perspective possible. Faith reminds us that everyone, no matter how broken, is made in the image of God. Everyone is redeemable. Everyone is a child of God.
+When you see others as wounded children, it’s hard to hate them. When you see yourself as a wounded child, it's hard to hate yourself. Instead, you feel sorrow—for the pain we carry, for the walls we've built, for the love we've missed. This perspective doesn’t excuse bad behavior, but it fosters compassion. It invites us to approach others and ourselves with grace, even when we seem undeserving. And it’s faith that makes this perspective possible. Faith reminds us that everyone, no matter how broken, is made in the image of God. Everyone is redeemable. Everyone is a child of God.
 
 ## **Conclusion: Faith as a First Step**
 
