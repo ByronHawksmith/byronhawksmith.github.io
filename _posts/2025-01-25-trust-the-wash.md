@@ -43,7 +43,7 @@ And yet, peace doesn’t arrive without the storm. To reach it, you must first c
 
 At the heart of this journey is one defining truth: the image of God you hold in your mind determines the quality of your life. If that image is unmerciful, unjust, or shrinking, it reflects back into everything you do. But if that image is merciful, righteous, and loving, it becomes a foundation of strength and clarity.
 
-You construct this image not through blind faith but through works—through the trials, the messes, and the grace you encounter along the way, whether you ask for it or whether it manifests by chance. It’s a feedback loop, a mirror of your own becoming. The God you envision shapes your perspective, and in turn, your perspective shapes your life.
+You construct this image not through blind faith but through works—through the trials, the messes, and the grace you encounter along the way, whether you ask for it or whether it manifests by itself. It’s a feedback loop, a mirror of your own becoming. The God you envision shapes your perspective, and in turn, your perspective shapes your life.
 
 Trust the wash. Trust the forces behind it. Let the chaos do its work, knowing that it’s not there to destroy you but to refine you. Life will always be messy. The question isn’t whether you’ll make a mess—it’s whether you’ll let that mess transform you into something greater.
 
