@@ -9,7 +9,7 @@ Somewhere out there, right now, there’s someone kneeling in prayer, asking God
 
 And yet, in our modern world, this perspective is often ridiculed. Faith is dismissed as a placebo, while pharmaceutical solutions are revered as the pinnacle of progress. But the truth is that faith—even if it were "just" a placebo—has delivered transformative results for centuries. If prayer calms the storm of suicidal thoughts, if it replaces despair with hope, who cares whether some call it a placebo? What matters is that it works. Meanwhile, countless people dutifully swallow medications that keep them just barely alive and stumble through therapeutic frameworks—frameworks that often fail to address the spiritual voids and existential wounds at the heart of their suffering.
 
-Now, it would be irresponsible of me not to say this: **Do not stop taking your medication if you are already on it. DO NOT DO THAT.** What I am saying is this: there are alternative frameworks to explore—frameworks that challenge the belief systems keeping you trapped in the same cycle of thought and suffering.
+Now, it would be irresponsible of me not to say this: **Do not stop taking your medication if you are already on it. DO NOT DO THAT.** What I am saying is this: there are alternative frameworks to explore—frameworks that challenge the belief systems keeping you trapped in the same cycle of thought induced suffering.
 
 ## **Faith as a Framework**
 
