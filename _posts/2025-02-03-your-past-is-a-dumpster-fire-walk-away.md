@@ -23,7 +23,7 @@ You say, "You don’t know what I’ve been through." You're right. I don’t. A
 
 Every time you comb over those old wounds, it’s like an addict scratching at needle marks on their skin. It doesn’t heal the holes—it just keeps them open. You’re not processing your trauma; you’re wallowing in it. You’re watching reruns of the same painful movie, expecting a different ending. Spoiler alert: the ending doesn’t change. Turn the fucking TV off.
 
-And let’s be clear—your past isn’t some sacred relic to preserve or revisit. It’s a dumpster fire. And you’re standing there, watching it burn, breathing in the toxic fumes like it’s oxygen. Walk away. You don’t owe your past a damn thing.
+And let’s be clear—your past isn’t some sacred relic to preserve or revisit. It’s a dumpster fire. And you’re standing there, watching it burn, breathing in the toxic fumes like it’s oxygen. Walk away. You don’t owe your past a damn thing and you certainly don't have to drag it along behind you for your entire life.
 
 ## The Illusion of Control
 
@@ -43,7 +43,7 @@ For every single thought, ask yourself:
 
 Most of your thoughts are garbage—automatic responses programmed by years of unresolved pain and unchecked emotions. But here’s the thing: *you’re not obligated to believe them.*
 
-Start observing your thoughts like a scientist, detached and curious. When a negative thought arises, don’t wrestle with it. Just notice it. Let it pass like a cloud drifting across the sky. You’ll be amazed at how much of your mental suffering evaporates when you stop putting it on a pedestal.
+Start observing your thoughts like a scientist, detached and curious. When a disempowering thought arises, don’t wrestle with it. Just notice it. Let it pass like a cloud drifting across the sky. You’ll be amazed at how much of your mental suffering evaporates when you stop putting it on a pedestal.
 
 ## The Fruits of the Spirit: A Litmus Test for Life
 
@@ -65,17 +65,17 @@ People underestimate the power of negative visualization. If you see yourself as
 
 ## Letting Go: The Ultimate Rebellion
 
-Letting go of the past isn’t just about personal peace—it’s an act of rebellion. It’s saying a very loud "fuck you" to every person and circumstance that tried to break you. By refusing to let them occupy space in your mind, you’re declaring, *"You don’t own me."*
+Letting go of the past isn’t just about personal peace—it’s an act of rebellion. It’s saying a very loud *"fuck you"* to every person and circumstance that tried to break you. By refusing to let them occupy space in your mind, you’re declaring, *"You don’t own me."*
 
 The past can’t hurt you unless you let it. The only power it has is the power you give it. So stop feeding it. Stop scratching at old wounds. Stop watching the same reruns and expecting a different ending.
 
-Be a builder, not a self-pitying narcissist. Stop staring at your own reflection sobbing tears and start creating something new. Your life isn’t a museum of past traumas—it’s a construction site for your future.
+Be a builder of tomorrow, not a self-pitying narcissist. Stop staring at your own reflection sobbing tears and start creating something new. Your life isn’t a museum of past traumas—it’s a construction site for your future.
 
 And remember: Your past is a dumpster fire. You can stand there inhaling the smoke and die of oxygen deprivation, or you can walk away and start breathing freely.
 
 ## Final Thought: The Choice is Yours
 
-At the end of the day, you have a choice. You can continue to live in psychological bondage, defined by your past and shackled by your pain. Or you can break free, take control, and build a life that reflects the fruits of the spirit.
+At the end of the day, you have a choice. You can continue to live in psychological bondage, defined by your past, shackled by your pain, haunted by your the ghosts of your memories. Or you can break free, take control, and build a life that reflects the fruits of the spirit.
 
 No one can make that choice for you. But if you’re tired of being a puppet to your past, it’s time to cut the strings.
 
