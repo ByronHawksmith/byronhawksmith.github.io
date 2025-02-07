@@ -32,7 +32,7 @@ But that’s the wrong question. The better question is: **What am I still learn
 
 The survival paradigm is where strength is forged. You can't forge it anywhere else. It’s the crucible where resilience, discipline, and willpower are beaten into shape. Most people spend their lives trying to avoid this space, numbing themselves with distractions, comforts, and lies. But if you’ve lived here—truly lived here—you know how sacred this space is. You know the kind of intensity that gets cultivated down here, the clarity that comes from being stripped of excess.
 
-But survival, unchecked, becomes stagnation and stagnation is just one level above death. The survival paradigm rewards you for staying the same. It tells you that anger is productive, that aggression gets results, that discipline is enough. And for the most part, they *do* get results, and they *are* enough. But they're not everything. That same fire that fuels your progress prevents you from embodying higher states of consciousnes. The anger that keeps you moving binds you to the survival paradigm.
+But survival, unchecked, becomes stagnation and stagnation is just one level above death. The survival paradigm rewards you for staying the same. It tells you that anger is productive, that aggression gets results, that discipline is enough. And for the most part, they *do* get results, and they *are* enough. But they're not everything. That same fire that fuels your progress prevents you from embodying higher states of consciousness. The anger that keeps you moving binds you to the survival paradigm.
 
 This acknowledgement of the limitations of survival is where the real discomfort begins.
 
