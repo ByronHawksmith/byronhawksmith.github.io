@@ -113,6 +113,9 @@ order: 3
 <sup>**10**</sup> Is there anything of which one can say, “Look! This is something new”? It was here already, long ago; it was here before our time.
 <sup>**11**</sup> No one remembers the former generations, and even those yet to come will not be remembered by those who follow them.
 
+## Ecclesiastes 1:18
+<sup>**18**</sup> For with much wisdom comes much sorrow; the more knowledge, the more grief.
+
 ## Isaiah 40:31
 <sup>**31**</sup> But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.
 
@@ -210,6 +213,9 @@ but deliver us from the evil one.’
 
 ## Matthew 7:16
 <sup>**16**</sup> By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles?
+
+## Matthew 10:16
+<sup>**16**</sup> I am sending you out like sheep among wolves. Therefore be wise as serpents and innocent as doves.
 
 ## Matthew 11:28-30
 <sup>**28**</sup> “Come to me, all you who are weary and burdened, and I will give you rest.
