@@ -9,9 +9,9 @@ Modernity loves comfort. It thrives on the ideal of effortlessness, a curated re
 
 A God that *demands* something of you is an affront to the modern sensibility. A God that asks you to submit, to sacrifice, to become someone other than who you are right now? That’s an existential inconvenience, and it’s precisely why this type of God is so viscerally rejected by those who claim no faith. For many, the mere suggestion of accountability to a higher power feels like an insult, an assault on their autonomy. But this discomfort is where the true utility of a demanding God lies.
 
-## The "Airy-Fairy" God and the Cult of Comfort
+## The Feel Good God and the Cult of Comfort
 
-Consider the modern "airy-fairy" God—a vague, feel-good entity who asks nothing of you. This God tells you to "follow your heart," "live your truth," and "do whatever makes you happy." There’s no standard here, no moral objectivity, no accountability. Just a divine rubber stamp on whatever you already wanted to do. This God is easy to love because it never challenges you. It lets you remain precisely as you are, indulging every whim, ignoring every fault, it will lead you as easily into destitution as it will anywhere else.
+Consider the modern "feel good" God—a vague, feel-good entity who asks nothing of you. This God tells you to "follow your heart," "live your truth," and "do whatever makes you happy." There’s no standard here, no moral objectivity, no accountability. Just a divine rubber stamp on whatever you already wanted to do. This God is easy to love because it never challenges you. It lets you remain precisely as you are, indulging every whim, ignoring every fault, it will lead you as easily into destruction as it will anywhere else.
 
 But let’s be honest: this kind of God is useless. It’s a spiritual placebo, offering comfort without transformation, affirmation without growth. It’s the theological equivalent of an empty calorie—momentarily satisfying but ultimately unfulfilling. And the proof is in the fruits: a culture awash in anxiety, despair, and existential aimlessness, despite its supposed freedom from the "oppression" of religion.
 
