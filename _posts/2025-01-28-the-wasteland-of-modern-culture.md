@@ -5,7 +5,7 @@ image:
   path: /images/the-wasteland-of-modern-culture.png
 ---
 
-Imagine a society where nothing is sacred, nothing permanent, and nothing worth suffering for. A culture where relationships, commitments, and even people are disposable—tossed aside like last year’s phone or a pair of shoes that’s lost their shine. That’s where we are now. Welcome to the wasteland we built with our own hands.
+Imagine a society where nothing is sacred, nothing permanent, and nothing worth suffering for. A culture where relationships, commitments, and even people are disposable—tossed aside like last year’s phone or a pair of old shoes. That’s where we are now. Welcome to the wasteland we built with our own hands.
 
 We live in a world of abundance, yet it’s never been so empty. Relationships dissolve like sugar in water. Commitments are made with crossed fingers, ready to be broken when something shinier comes along. The word “covenant” has lost its weight. Marriage vows—once a sacred bond of shared purpose and sacrifice—are now just ceremonial filler for Instagram stories. And when the ceremony’s over, we return to a culture of *me first,* of easy exits, of endless options.
 
