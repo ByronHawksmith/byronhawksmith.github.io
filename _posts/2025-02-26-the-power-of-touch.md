@@ -39,7 +39,7 @@ In these spaces, people are constantly engaging in controlled, physical interact
 
 Training partners don’t just fight—they *feel* and *respond* to each other’s energy. They sense tension, hesitation, confidence, exhaustion and balance. They learn to read body language in a way that is almost surreal.
 
-Through this process, touch is completely normalized. There’s no discomfort, no hesitation. You trust your partner with your body, and in doing so, you forge a connection that goes beyond words. Even after an intense roll—where you have just tried to choke each other unconscious or hyperextend a joint—there’s  always a handshake, a fist bump, a moment of mutual respect and acknowledgement.
+Through this process, touch is completely normalized. There’s no discomfort, no hesitation. You trust your partner with your body, and in doing so, you forge a connection that goes beyond words. Even after an intense roll—where you have just tried to choke each other unconscious and fold each other's joints into pretzels—there’s  always a handshake, a fist bump, a moment of mutual respect and acknowledgement.
 
 The paradox is beautiful: a room full of people learning how to kill and maim each other is often one of the safest, friendliest, and most welcoming places you’ll ever walk into. The energy is high, but not hostile. The competition is fierce, but not aggressive. Everyone is there to make each other better, to teach each other things and to learn from one another.
 
