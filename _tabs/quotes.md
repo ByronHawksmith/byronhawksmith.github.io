@@ -10,3 +10,5 @@ order: 3
 "Anyone who can make you believe absurdities can make you commit atrocities" - Voltaire
 
 "Someone I loved once gave me a box full of darkness. It took me years to understand that this, too, was a gift." - Mary Oliver
+
+"The propagandist's purpose is to make one set of people forget that certain other sets of people are human." - Aldous Huxley
